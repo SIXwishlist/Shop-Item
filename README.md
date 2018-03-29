@@ -19,14 +19,6 @@ Shop Item is a basic, unstyled ecommerce template for Bootstrap ecommerce websit
 
 **[View Live Preview](https://jakepintu.github.io/Shop-Item/)**
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-shop-item/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-shop-item.svg)](https://www.npmjs.com/package/startbootstrap-shop-item)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-shop-item.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-shop-item)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item?type=dev)
-
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
